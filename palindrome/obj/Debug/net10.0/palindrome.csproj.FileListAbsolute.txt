@@ -1,0 +1,15 @@
+E:\projects\CsharpProjects\Simple Palindrom Checker\palindrome\bin\Debug\net10.0\palindrome.exe
+E:\projects\CsharpProjects\Simple Palindrom Checker\palindrome\bin\Debug\net10.0\palindrome.deps.json
+E:\projects\CsharpProjects\Simple Palindrom Checker\palindrome\bin\Debug\net10.0\palindrome.runtimeconfig.json
+E:\projects\CsharpProjects\Simple Palindrom Checker\palindrome\bin\Debug\net10.0\palindrome.dll
+E:\projects\CsharpProjects\Simple Palindrom Checker\palindrome\bin\Debug\net10.0\palindrome.pdb
+E:\projects\CsharpProjects\Simple Palindrom Checker\palindrome\obj\Debug\net10.0\palindrome.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\CsharpProjects\Simple Palindrom Checker\palindrome\obj\Debug\net10.0\palindrome.AssemblyInfoInputs.cache
+E:\projects\CsharpProjects\Simple Palindrom Checker\palindrome\obj\Debug\net10.0\palindrome.AssemblyInfo.cs
+E:\projects\CsharpProjects\Simple Palindrom Checker\palindrome\obj\Debug\net10.0\palindrome.csproj.CoreCompileInputs.cache
+E:\projects\CsharpProjects\Simple Palindrom Checker\palindrome\obj\Debug\net10.0\palindrome.sourcelink.json
+E:\projects\CsharpProjects\Simple Palindrom Checker\palindrome\obj\Debug\net10.0\palindrome.dll
+E:\projects\CsharpProjects\Simple Palindrom Checker\palindrome\obj\Debug\net10.0\refint\palindrome.dll
+E:\projects\CsharpProjects\Simple Palindrom Checker\palindrome\obj\Debug\net10.0\palindrome.pdb
+E:\projects\CsharpProjects\Simple Palindrom Checker\palindrome\obj\Debug\net10.0\palindrome.genruntimeconfig.cache
+E:\projects\CsharpProjects\Simple Palindrom Checker\palindrome\obj\Debug\net10.0\ref\palindrome.dll
